@@ -1,15 +1,11 @@
 # German Ilya
 
----
-
 ## CV
 
----
 [CV.pdf](CV.pdf)
 
 ## Education
 
----
 _Higher School of Economics,_
 _Faculty of Computer Science, Applied Mathematics and Information Science_
 
@@ -40,7 +36,6 @@ _Lyceum 180, Nizhniy Novgorod_
 
 ## Skills
 
----
 Programming:
 - python (main)
 - C++
