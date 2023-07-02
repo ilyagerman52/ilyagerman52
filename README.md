@@ -5,6 +5,7 @@
 [CV.pdf](CV.pdf)
 
 ## Education
+__University:__
 
 _Higher School of Economics,_
 _Faculty of Computer Science, Applied Mathematics and Information Science_
@@ -30,7 +31,8 @@ Programming courses:
 Others:
 - Bioinformatics
 
-School:
+__School:__
+
 _Lyceum 180, Nizhniy Novgorod_
 
 
