@@ -10,7 +10,7 @@ __University:__
 _Higher School of Economics,_
 _Faculty of Computer Science, Applied Mathematics and Information Science_
 
-Average grade = 8.28, Percentile (determined by program) = 18.63
+Average grade = 8.13, Percentile (determined by program) = 11.95
 
 Math courses:
 - Calculus
