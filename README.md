@@ -4,59 +4,6 @@
 
 [CV.pdf](CV.pdf)
 
-## Education
-__University:__
-
-_Higher School of Economics,_
-_Faculty of Computer Science, Applied Mathematics and Information Science_
-
-Average grade = 8.13, Percentile (determined by program) = 11.95
-
-Math courses:
-- Calculus
-- Discrete Mathematics
-- Linear Algebra and Geometry
-- Algebra
-- Probability Theory
-- Mathematical Statistics
-- Fundamentals of Matrix Computations
-
-Programming courses:
-- Introducing in programming
-- Algorithms and Data Structures
-- Python Programming Language(advanced)
-- Modern Software Engineering Practices
-- Computer Architecture and Operating Systems
-
-Others:
-- Bioinformatics
-
-__School:__
-
-_Lyceum 180, Nizhniy Novgorod_
-
-
-## Skills
-
-Programming:
-- python (main)
-- C++
-- C
-- Assembly x86, RISC-V
-- bash
-- Latex, Markdown
-
-Libraries:
-- qt
-- opencv
-- numpy
-- pandas
-- sqlite3
-- pyteletegrambotapi
-
-Others:
-- git
-- linux
 ## Contacts
 
 ---
