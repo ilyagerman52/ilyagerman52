@@ -1,8 +1,6 @@
 # German Ilya
 
-## CV
-
-[CV.pdf](CV.pdf)
+## Hello! This is page with my small projects.
 
 ## Contacts
 
